@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Krev | Creative & Tech Agency</title>
-    <link rel="shortcut icon" href="img/logo1.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/logo1.ico" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -42,7 +42,7 @@
     <!-- NavBar -->
     <header class="w-full  mx-auto px-6 py-6 flex justify-between items-center fixed z-50 glass-effect">
         <div class="flex items-center gap-2">
-            <img src="img/logo.png" alt="Krev Logo" class="h-8 onerror='this.style.display=\"none\"'">
+            <img src="/logo.png" alt="Krev Logo" class="h-8 onerror='this.style.display=\"none\"'">
             <span class="text-brand font-extrabold text-2xl tracking-wider">KREV</span>
         </div>
         
