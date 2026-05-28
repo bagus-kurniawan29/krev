@@ -43,7 +43,6 @@
     <!-- NavBar -->
     <header class="w-full mx-auto px-4 md:px-8 py-4 flex justify-between items-center fixed top-0 left-0 right-0 z-50 glass-effect">
         <div class="flex items-center gap-2">
-            <!-- Menunjuk langsung ke root file di folder public Vercel -->
             <img src="/logo.png" alt="Krev Logo" class="h-8 object-contain">
             <span class="text-brand font-extrabold text-2xl tracking-wider">KREV</span>
         </div>
@@ -442,7 +441,6 @@
     <!-- SCRIPT ESTIMASI & FILTER -->
     <script>
     document.addEventListener("DOMContentLoaded", () => {
-        // Logika 1: Kalkulator Estimasi
         const ReillyEstimasi = {
             "Video Editing": {
                 "Standar":  { waktu: "3 - 5 Hari kerja",  tim: "1 Editor & 1 Creative Director", prioritas: "TINGGI" },
